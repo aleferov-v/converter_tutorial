@@ -1,0 +1,17 @@
+Section:DUL
+Паспорт
+97 07
+263887
+2005-04-30
+010-201
+
+Section:FIO
+Сидоров В.П.
+1990-11-18
+
+Section:FROM
+1500
+USD
+
+Section:TO
+RUB

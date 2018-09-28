@@ -1,0 +1,16 @@
+DUL:
+  Type: Foreign Passport
+  Serial: 54 22
+  Number: 556633
+  Code: 770-021
+  Date: 23.05.2010
+FIO:
+  FIO: Orlov Lev Ivanovich
+  Birthdate: 07.07.1988
+MoneyFrom:
+  Currency: EUR
+  Amount: 1_666.50
+MoneyTo:
+  Currency: RUB
+
+
